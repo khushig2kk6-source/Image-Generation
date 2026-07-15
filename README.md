@@ -1,4 +1,4 @@
-#### Image Generation
+### Image Generation
 
 ### Objective
 
